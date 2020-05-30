@@ -5,6 +5,7 @@
 .sandbox/
 build/
 out/
+bin/
 gradle.properties
 *.iml
 target/
